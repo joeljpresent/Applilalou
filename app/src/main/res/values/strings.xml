@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Applilalou</string>
+    <string name="helloworld">Hello World</string>
+    <string name="souitche">switch</string>
+    <string name="windbreaking">prout</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
 </resources>

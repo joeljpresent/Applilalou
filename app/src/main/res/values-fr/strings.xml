@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Applilalou</string>
+    <string name="helloworld">Bonjour le monde !</string>
+    <string name="souitche">Interrupteur</string>
+    <string name="windbreaking">Prout !</string>
+    <string name="day">Jour</string>
+    <string name="night">Nuit</string>
+</resources>
